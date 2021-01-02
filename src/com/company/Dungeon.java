@@ -12,7 +12,6 @@ public class Dungeon {
         System.out.println("As the daring adventurer you are, you ignore the sign and enter into the cave");
         System.out.println("All of a sudden, you hear a large bang and the entrance collapses behind you. " +
                 "There is no way out now...");
-        Room.StartingRoom();
 
         
         /* startingRoom.StartingRoom(firstRoom);

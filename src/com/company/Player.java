@@ -11,7 +11,7 @@ public class Player {
         this.healthPoints = healthPoints;
         this.damage = damage;
     }
-//Setters och getters
+    //Setters och getters
     public void setName(String newName) {
         this.name = newName;
     }
@@ -29,7 +29,7 @@ public class Player {
     }
 
     public void setDamage(int newDamage) {
-        this.damage = newDamage;
+        this.damage =+ newDamage;
     }
 
     public int getDamage() {
